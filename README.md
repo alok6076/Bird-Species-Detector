@@ -21,4 +21,4 @@ model_url: https://tfhub.dev/tensorflow/efficientnet/b4/classification/1
 
 
 
-Project Blog: https://omkarvatsa.hashnode.dev/bird-species-image-classification-using-ml
+
